@@ -1,10 +1,11 @@
-import './App.css';
+import "./App.css";
 
 const App = () => {
-  return (
-    <div>
-    </div>
-  );
-}
+    return (
+        <>
+            <div>Hello World</div>
+        </>
+    );
+};
 
 export default App;
